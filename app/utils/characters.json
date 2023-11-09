@@ -1,0 +1,149 @@
+[
+  {
+    "id": "87a108b1-1daf-4a2b-8081-1e4b16269e74",
+    "name": "Asta",
+    "anime": "Black Clover",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Asta_%28Black_Clover%29.png/1200px-Asta_%28Black_Clover%29.png",
+    "age": 15,
+    "race": "Human",
+    "occupation": "Mage",
+    "abilities": ["Anti-magic", "Demon-Slayer Sword"],
+    "personality": ["Determined", "Optimistic", "Brave"]
+  },
+  {
+    "id": "66f7d043-a820-4d36-aab5-ae50bb0a38ba",
+    "name": "Tanjiro Kamado",
+    "anime": "Kimetsu no Yaiba",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Tanjiro_Kamado.png/1200px-Tanjiro_Kamado.png",
+    "age": 15,
+    "race": "Human",
+    "occupation": "Demon Slayer",
+    "abilities": [
+      "Respiration of the Water",
+      "Danse du Dieu du Feu",
+      "Danse du Dieu du Soleil"
+    ],
+    "personality": ["Kind", "Compassionate", "Determined"]
+  },
+  {
+    "id": "bda4cf3c-e8e5-4180-a2a5-e95c7b587512",
+    "name": "Zenitsu Agatsuma",
+    "anime": "Kimetsu no Yaiba",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Zenitsu_Agatsuma_%28Kimetsu_no_Yaiba%29.png/1200px-Zenitsu_Agatsuma_%28Kimetsu_no_Yaiba%29.png",
+    "age": 16,
+    "race": "Human",
+    "occupation": "Demon Slayer",
+    "abilities": ["Thunder Breathing", "Thunderclap and Flash"],
+    "personality": ["Cowardly", "Lovable", "Kind"]
+  },
+  {
+    "id": "ddea6259-5b44-4250-8e14-751c28d53993",
+    "name": "Inosuke Hashibira",
+    "anime": "Kimetsu no Yaiba",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Inosuke_Hashibira_%28Kimetsu_no_Yaiba%29.png/1200px-Inosuke_Hashibira_%28Kimetsu_no_Yaiba%29.png",
+    "age": 15,
+    "race": "Human",
+    "occupation": "Demon Slayer",
+    "abilities": ["Beast Breathing"],
+    "personality": ["Rude", "Aggressive", "Strong-willed"]
+  },
+  {
+    "id": "ba5afc3a-93bb-4508-a86a-5b3b232b90db",
+    "name": "Ichigo Kurosaki",
+    "anime": "Bleach",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ichigo_Kurosaki_%28Bleach%29.png/1200px-Ichigo_Kurosaki_%28Bleach%29.png",
+    "age": 15,
+    "race": "Human",
+    "occupation": "Substitute Soul Reaper",
+    "abilities": ["Shunpo", "Hierro", "Zanpakutō", "Fullbring"],
+    "personality": ["Headstrong, Determined, Compassionate"]
+  },
+  {
+    "id": "d9cfafe6-0f98-4c3d-a91a-80d37129ff3d",
+    "name": "Rukia Kuchiki",
+    "anime": "Bleach",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rukia_Kuchiki_%28Bleach%29.png/1200px-Rukia_Kuchiki_%28Bleach%29.png",
+    "age": 15,
+    "race": "Shinigami",
+    "occupation": "Substitute Soul Reaper",
+    "abilities": ["Shunpo", "Hierro", "Zanpakutō"],
+    "personality": ["Compassionate, Responsible, Strong-willed"]
+  },
+  {
+    "id": "12737f00-d219-4f7e-8fd0-88cb39565be8",
+    "name": "Orihime Inoue",
+    "anime": "Bleach",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Orihime_Inoue_%28Bleach%29.png/1200px-Orihime_Inoue_%28Bleach%29.png",
+    "age": 15,
+    "race": "Human",
+    "occupation": "Student",
+    "abilities": ["Shun Shun Rikka", "Healing powers"],
+    "personality": ["Gentle, Caring, Kind"]
+  },
+  {
+    "id": "c733aaf2-e4a5-4647-a727-9999f1583266",
+    "name": "Luffy",
+    "anime": "One Piece",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Luffy_%28One_Piece%29.png/1200px-Luffy_%28One_Piece%29.png",
+    "age": 19,
+    "race": "Human",
+    "occupation": "Pirate",
+    "abilities": ["Rubber body", "Haki"],
+    "personality": ["Optimistic, Brave, Determined"]
+  },
+  {
+    "id": "c73b6179-f559-4402-8c71-3db88a9076dc",
+    "name": "Naruto Uzumaki",
+    "anime": "Naruto",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Naruto_Uzumaki_%28Naruto%29.png/1200px-Naruto_Uzumaki_%28Naruto%29.png",
+    "age": 12,
+    "race": "Human",
+    "occupation": "Ninja",
+    "abilities": ["Chakra control", "Shadow Clone Jutsu", "Rasengan"],
+    "personality": ["Stubborn, Determined, Optimistic"]
+  },
+  {
+    "id": "5787f9c2-45b6-4a0a-8135-0f16343d8778",
+    "name": "Gon Freecss",
+    "anime": "Hunter x Hunter",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gon_Freecss_%28Hunter_x_Hunter%29.png/1200px-Gon_Freecss_%28Hunter_x_Hunter%29.png",
+    "age": 12,
+    "race": "Human",
+    "occupation": "Hunter",
+    "abilities": ["Nen", "Gyo", "Ken"],
+    "personality": ["Gentle, Optimistic, Determined"]
+  },
+  {
+    "id": "ff1090fe-a8b8-4bb9-990f-df904ceb3a96",
+    "name": "Midoriya Izuku",
+    "anime": "My Hero Academia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Izuku_Midoriya_%28My_Hero_Academia%29.png/1200px-Izuku_Midoriya_%28My_Hero_Academia%29.png",
+    "age": 15,
+    "race": "Human",
+    "occupation": "Student",
+    "abilities": ["One for All", "Super Strength", "Super Speed"],
+    "personality": ["Kind, Determined, Heroic"]
+  },
+  {
+    "id": "d79d78cd-5f0e-401e-953c-20f5ed712507",
+    "name": "Yuji Itadori",
+    "anime": "Jujutsu Kaisen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yuji_Itadori_%28Jujutsu_Kaisen%29.png/1200px-Yuji_Itadori_%28Jujutsu_Kaisen%29.png",
+    "age": 15,
+    "race": "Human",
+    "occupation": "Jujutsu Sorcerer",
+    "abilities": ["Cursed Energy", "Domain Expansion", "Rengoku Ren"],
+    "personality": ["Compassionate, Determined, Heroic"]
+  },
+  {
+    "id": "b5cd4fc0-d45c-4286-8904-d2350fba6cc7",
+    "name": "Goku",
+    "anime": "Dragon Ball",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goku_%28Dragon_Ball%29.png/1200px-Goku_%28Dragon_Ball%29.png",
+    "age": 38,
+    "race": "Saiyan",
+    "occupation": "Warrior",
+    "abilities": ["Ki", "Super Saiyan", "Kaioken"],
+    "personality": ["Cheerful", "Optimistic", "Determined"]
+  }
+]
