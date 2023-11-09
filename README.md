@@ -2,6 +2,9 @@
 
 Esta API proporciona un servicio para gestionar personajes con diversas características, como raza, habilidades, y más. Puedes utilizarla para crear, leer, actualizar y eliminar personajes.
 
+## Puedes probarlo en el siguiente link! 🚀🚀🚀
+[Obtener todos los personajes](https://rest-api-anime-characters-fl0.3.us-1.fl0.io/characters)
+
 ## Uso
 
 ### Obtener todos los personajes
