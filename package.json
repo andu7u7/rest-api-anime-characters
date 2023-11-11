@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app/anime.js"
+    "dev": "PORT=8080 node --watch src/anime.js",
+    "start": "PORT=8080 node src/anime.js"
   },
   "repository": {
     "type": "git",
